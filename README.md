@@ -61,7 +61,7 @@ This project was developed using **vibe coding with Blink** to speed up UI build
 
 ## 👤 Author
 
-**Falih Arkan**  
+**Falih Arkan & Fadhirrahman Adzdzaky**  
 Student of Information Systems, Networking & Applications  
 
 ---
